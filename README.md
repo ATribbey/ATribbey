@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WTWR Backend](https://github.com/ATribbey/se_project_express)
 
-- - 🔭 I’m currently working on [WTWR Frontend](https://github.com/ATribbey/se_project_react)
+- 🔭 I’m currently working on [WTWR Frontend](https://github.com/ATribbey/se_project_react)
 
 - 🌱 I’m currently learning **SQL, Next.js**
 
