@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATribbey?tab=repositories](https://github.com/ATribbey?tab=repositories)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**, **My Externship Experience with Slopopedia NPO**
 
 - 📫 How to reach me **tribbeyalexander@gmail.com**
 
