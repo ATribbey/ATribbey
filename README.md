@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Tribbey</h1>
 <h3 align="center">A Full Stack Developer from South Florida</h3>
 
-- 🔭 I’m currently working on [WTWR Backend](https://github.com/ATribbey/se_project_express) and [WTWR Frontend](https://github.com/ATribbey/se_project_react)
+- 🔭 I’m currently working on [ThreatMinder Browser Extension](https://github.com/GetClose/tm-browser-extension)
 
-- 🌱 I’m currently learning **SQL, Next.js**
+- 🌱 I’m currently learning **Python, Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATribbey?tab=repositories](https://github.com/ATribbey?tab=repositories)
 
