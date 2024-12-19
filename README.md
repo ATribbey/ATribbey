@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alexander Tribbey</h1>
 <h3 align="center">A Full Stack Developer from South Florida</h3>
 
-- 🔭 I’m currently working on [ThreatMinder Browser Extension](https://github.com/GetClose/tm-browser-extension)
+- 🔭 I’m currently working on a browser extension that uses ML to analyze the content of your web searches
 
 - 🌱 I’m currently learning **Python, Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATribbey?tab=repositories](https://github.com/ATribbey?tab=repositories)
 
-- 💬 Ask me about **React**, **My Externship Experience with Slopopedia NPO**
-
 - 📫 How to reach me **tribbeyalexander@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1furFG4Kqjk8oaNnbaPl6AlVnTqOG__QkphRwAAy1hNM/edit](https://docs.google.com/document/d/1furFG4Kqjk8oaNnbaPl6AlVnTqOG__QkphRwAAy1hNM/edit)
 
-- ⚡ Fun fact **I love flight simulation and fishing!**
+- ⚡ Fun fact **I love flight simulation and fly fishing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
